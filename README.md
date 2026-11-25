@@ -15,7 +15,6 @@ Atividade de **consultas SQL**, **stored procedures** e **views** em MySQL, feit
 ├── parte2_testes.sql         # testes das procedures
 ├── views_exemplos.sql        # 5 views
 ├── views_testes.sql          # testes das views
-└── views_vs_procedures.md    # pesquisa: quando usar view em vez de procedure
 ```
 
 ## 🚀 Como rodar
